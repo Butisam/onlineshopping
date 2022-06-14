@@ -1,0 +1,7 @@
+*{
+    font-weight: 900;
+    }
+    .cartList{
+        width: 100%;
+        display:flex;
+    }
